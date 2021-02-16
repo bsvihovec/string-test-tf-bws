@@ -174,7 +174,7 @@ metadata:
     operators.operatorframework.io/project_layout: helm.sdk.operatorframework.io/v1
     repository: https://github.com/dmesser/cockroachdb-operator
     support: dmesser
-  name: cockroachdb.v5.0.3
+  name: cockroachdb.v5.0.4
   namespace: placeholder
 spec:
   apiservicedefinitions: {}
@@ -588,4 +588,4 @@ spec:
   provider:
     name: Helm Community
     url: https://artifacthub.io/packages/helm/cockroachdb/cockroachdb
-  version: 5.0.3
+  version: 5.0.4
