@@ -17,18 +17,25 @@ description: Up-to-date and secure image. WordPress is the world's most popular 
   and content management platform. Powerful yet simple, everyone from students to
   global corporations use it to build beautiful, functional websites.
 readme: |
-  WordPress powers over 25% of all websites on the internet, making it the world's most popular blogging and content management platform. It is free and open source software developed entirely by its community, who have contributed over 45,000 themes, plugins, and widgets that enable an unlimited combination of features. Users can easily create and edit static webpages and blog posts using its intuitive editor.  Without even thinking about details like browser compatibility or responsiveness, content creators are free to create and format text, images, and layout on every page and post.
+  WordPress powers over 25% of all websites on the internet, making it the world's most popular blogging and content management platform. It is free and open source software developed entirely by its community, who have contributed over 45,000 themes, plugins, and widgets that enable an unlimited combination of features. Users can easily create and edit static webpages and blog posts using its intuitive editor. Without even thinking about details like browser compatibility or responsiveness, content creators are free to create and format text, images, and layout on every page and post.
   
-  More tech savvy will appreciate having the ability to easily switch back and forth between a WYSIWYG editor and raw html for every page, and the underlying PHP that runs it all is available right through the interface.  
+  More tech savvy will appreciate having the ability to easily switch back and forth between a WYSIWYG editor and raw html for every page, and the underlying PHP that runs it all is available right through the interface.
   
-  Why use Bitnami Apps? 
+  ## Why use Bitnami Certified Apps?
   
-  Bitnami certified images are always up-to-date, secure, and built to work right out of the box. 
+  Bitnami certified images are always up-to-date, secure, and built to work right out of the box.
   
-  Bitnami packages applications following industry standards and continuously monitors 
-  all components and libraries for vulnerabilities and application updates. When any 
-  security threat or update is identified, Bitnami automatically repackages the 
-  applications and pushes the latest versions to the cloud marketplaces.
+  Bitnami packages applications following industry standards, and continuously monitors all components and libraries for vulnerabilities and application updates. When any security threat or update is identified, Bitnami automatically repackages the applications and pushes the latest versions to the cloud marketplaces.
+  
+  ## Additional resources
+  
+  [Get Started With Bitnami Applications On IBM Cloud](https://docs.bitnami.com/ibm/get-started-ibm/)
+  [Frequently Asked Questions](https://docs.bitnami.com/ibm/faq/)
+  [Bitnami WordPress Stack for IBM Cloud](https://docs.bitnami.com/ibm/apps/wordpress/)
+  
+  ## Getting support
+  
+  This offering is provided and supported by [Bitnami](https://bitnami.com/). If you encounter any issues, navigate to [https://bitnami.com/support/ibm](https://bitnami.com/support/ibm). You will find there useful documentation and the links to open a support case depending on your target. Your issue will typically be answered in approximately 1 to 2 business days by the Bitnami support team.
 links:
 - id: docs_index
   title: Getting Started
