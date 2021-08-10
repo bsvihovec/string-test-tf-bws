@@ -5,7 +5,7 @@ variable "TF_VERSION" {
   description = "terraform engine version to be used in schematics"
 }
 
-variable "a_key" {
+variable "sample_var" {
   description = "A sample_var to pass to the template."
   type = string
 }
